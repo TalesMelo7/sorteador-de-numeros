@@ -1,5 +1,31 @@
-﻿## 📁 Aprendizados com esse projeto:
 ___
+# Sorteador de Números
+
+O Sorteador de Números é uma ferramenta simples e interativa que permite realizar sorteios de forma rápida e prática. Através de um design intuitivo, o usuário pode escolher o intervalo de números desejado (por exemplo, de 1 a 100) e o número de sorteios que deseja realizar.
+
+A interface é composta por um campo de entrada para definir os limites do sorteio, um botão para gerar o número sorteado e uma área onde o número sorteado será exibido. A página também oferece um botão de reset para permitir que o usuário faça novos sorteios sem precisar recarregar a página.
+
+## 🧾 Funcionalidades:
+- **Definição de intervalo**: Permite ao usuário definir o intervalo de números para o sorteio (exemplo: de 1 a 100).
+- **Geração aleatória de um número**: Sorteia um número dentro do intervalo especificado.
+- **Exibição do número sorteado**: Mostra o número sorteado de forma destacada na tela.
+- **Botão de reset**: Permite limpar o campo de entrada e o número sorteado, facilitando um novo sorteio.
+
+## 🧱 Tecnologias Utilizadas:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>                                                                                                                                                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>                                                                                                                                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>                                                                                                                                                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+
+## 🚧 Melhorias Possíveis:
+
+- **Adicionar animações ao sorteio**: Tornar a interface mais interativa, com animações durante o processo de sorteio.
+  
+## 🛠 Como usar
+
+Para usar este projeto, você pode clonar este repositório ou baixar os arquivos zip. Em seguida, abra o arquivo index.html em seu navegador e veja o menu em ação. Você pode inserir a quantidade de números que deseja sortear e definir qual o número inicial e final do sorteio.﻿
+
+
+
+## 📁 Aprendizados com esse projeto:
 
 <ul>
     <li>Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;</li>
