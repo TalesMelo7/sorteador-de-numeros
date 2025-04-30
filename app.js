@@ -1,4 +1,4 @@
-function sortear() {
+function sortear2() {
     let quantidade = parseInt(document.getElementById("quantidade").value);
     let de = parseInt(document.getElementById("de").value);
     let ate = parseInt(document.getElementById("ate").value);
@@ -52,3 +52,4 @@ function reiniciar() {
     document.getElementById("resultado").innerHTML = `<label class="texto__paragrafo">Números sorteados:  Nenhum até agora</label>`
     alterarStatusBotao();
 }
+
