@@ -18,6 +18,7 @@ ___
     <li>Remover uma classe CSS de um elemento da página, via função classList.remove();</li>
     <li>Adicionar uma classe CSS a um elemento da página, via função classList.add();</li>
     <li>Modificar o código HTML de um elemento na página, via propriedade innerHTML.</li>
+    <li>Demonstração</li>
 </ul>
 
 ___
